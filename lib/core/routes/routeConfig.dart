@@ -1,0 +1,33 @@
+class routeName {
+  String get navPage => "/";
+  String get dashBoardPage => "dashBoardScreen";
+  String get productListPage => "productListingView";
+  String get drawerView => "menuScreen";
+  String get filterView => "filterScreen";
+  String get myOrderView => "myOrderScreen";
+  String get searchView => "searchScreen";
+  String get myBasketView => "myBasketSCreen";
+  String get locationView => "locationScreen";
+  String get contactUsView => "contactUsScreen";
+  String get brandView => "brandScreen";
+  String get productDetailsView => "productDetailScreen";
+  String get offerView => "offerScreen";
+  String get cartView => "cartScreen";
+  String get orderSummaryView => "orderSummaryScreen";
+  String get paymentProcessView => "paymentProcessScreen";
+  String get orderStatusView => "orderStatusScreen";
+  String get orderTrackingView => "orderTrackingScreen";
+  String get localCartView => "localCartScreen";
+  String get wishListView => "wishListScreen";
+  String get applyCouponView => "applyCouponScreen";
+  String get errorView => "errorScreen";
+  String get autoComplete => "autoCompleteScene";
+  String get addNewAddress => "addNewAddressScene";
+  String get registerPage => "registerScene";
+  String get loginPage => "loginScene";
+  String get mpinPage => "mpinScene";
+  String get createMpinPage => "newMpinScene";
+  String get customerAddressPage => "customerAddressScene";
+  String get productAddReview => "addReview";
+  String get orderDetailPage => "orderDetailPage";
+}
